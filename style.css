@@ -1,3 +1,178 @@
+body {
+background: white;
+margin: 0px 30px 0px 30px;
+font-family: 'Amatic SC', cursive;
+}
+
 h1 {
-  color: red;
+	display: flex;
+	justify-content: center;
+	font-size: 100px;
+	text-decoration: underline;
+
+}
+
+.banner {
+   background-size: cover;
+   background-position: center;
+   padding: 500px 700px;
+ }
+
+.Beauty {
+width: 200px;
+	height:500px;
+	object-fit:cover;
+	border-radius: 50%;
+	text-align: center;
+	list-style-image: center;
+}
+
+.logo1 {
+	width: 200px;
+	height: 200px;
+}
+
+.navbar {
+	position: fixed;
+	width: 100%;
+	background: white;
+	font-size: 40px;
+	font-family: 'Amatic SC', cursive;
+
+}
+
+.links {
+	text-align: right;
+}
+
+ul {
+	font-size: 50px;
+	text-align: left;
+	font-family: 'Amatic SC', cursive;
+}
+
+.p1 {
+	color: black;
+font-size: 50px;
+font-family: 'Amatic SC', cursive;;
+text-align: center;
+}
+
+.cadre2 {
+	background: white;
+	height: 547px;
+	font-size: 50px;
+	list-style-image: space-between;
+	display: flex;
+	justify-content: center;
+
+}
+
+.glitter {
+	width: 23%;
+	height:540px;
+	list-style-image: center;
+	border-color: white;
+	}
+
+.images {
+	border-color: white;
+}
+
+.cadre3 {
+	background: pink;
+		border: 5px solid black;
+}
+.btn {
+	color: black;
+	background: white;
+	font-size: 55px;
+
+
+}
+
+.btn:hover {
+	background: purple;
+}
+
+.suivre {
+	font-family: 'Amatic SC', cursive;
+	display: flex;
+	justify-content: center;
+	font-size: 50px;
+	text-decoration: underline;
+
+}
+
+.video {
+	height: 300;
+	width: 40%;
+
+.videoparent {
+	font-size: 60px;
+	justify-content: center;
+	width: 100%;
+}
+
+.videoparent {
+
+	font-size: 60px;
+		display: flex;
+	justify-content: center;
+	width: 60%;	
+}
+
+.mapaparent {
+	width: 50%;
+	display: flex;
+	justify-content: center;
+
+}
+
+.navbar2 {
+	width: 80%;
+	background: grey;
+	width: 100%;
+	text-align: right;
+	font-size: 80px;
+	color: white;
+	font-family: 'Amatic SC', cursive;
+}
+
+.links {
+	background: grey;
+	font-family: 'Amatic SC', cursive;
+	color: white;
+}
+
+.survey {
+	font-size: 45px;
+	font-family: 'Amatic SC', cursive;
+	display: flex;
+	justify-content: center;
+}
+
+.abonnez {
+	font-family: 'Amatic SC', cursive;
+	font-size: 45px;
+	text-align: left;
+}
+
+.h2 {
+	font-size: 50px;
+	display: flex;
+	justify-content: right;
+	width: 100%;
+}
+
+
+.container {
+	width:30%;
+height:50px;
+color:white;
+}
+
+iframe {
+	display: flex;
+	justify-content: center;
 }
